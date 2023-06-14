@@ -32,8 +32,8 @@ Developed by: shabreena vincent
 RegisterNumber: 212222230141
 '''
 def max_marks(marks):
-     marks.sort()
-     return marks[-1]
+    maxi=max(marks)
+    return maxi
 
 
 ```
